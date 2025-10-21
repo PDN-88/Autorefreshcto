@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Editors/IDEs
+.vscode/
+.idea/
+*.iml
+
+# Logs and temp
+*.log
+logs/
+*.tmp
+*.temp
+~$*
+
+# Misc
+*.swp
+*.swo
